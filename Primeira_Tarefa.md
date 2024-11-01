@@ -1,7 +1,16 @@
+What is needed to solve this problem?
+1. Basic knowledge of programming logic.  
+2. A fundamental understanding of variables.  
 
-print("Welcome to the Band Name Generator")
+If you lack this knowledge, please take a few minutes to study before attempting to solve the problem.
 
-city= input("What's the name of the city you grew up in?\n")
-pet = input("What's your pet's name?\n")
+Now, display the phrase: "Welcome to the Band Name Generator."
 
-print("Your band name could be: " + city + " " + pet)
+Next, create two questions:  
+
+1. What is the name of the city where you were born?  
+2. What is your pet's name?  
+
+Combine the name of the city with your pet's name and display the following message:  
+
+"Your band name could be:"
