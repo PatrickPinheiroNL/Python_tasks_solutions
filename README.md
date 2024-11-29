@@ -1,18 +1,11 @@
-Olá, muito prazer! Meu nome é Patrick, tenho 24 anos e estudo Ciência da Computação na Universidade Estácio de Sá. Moro no Rio de Janeiro, 
-caso queira me encontrar para conversar sobre programação, Python, criação de um novo projeto, ou apenas para fazer amizade, não hesite 
-em me contactar através do meu LinkedIn: https://www.linkedin.com/in/patrick-freitas-pinheiro/.
+Hello! Nice to meet you! My name is Patrick, and I'm 24 years old. I study Computer Science at Estácio de Sá University and live in Rio de Janeiro.
 
-Criei esse novo repositório na intenção de compartilhar meus projetos e novos aprendizados utilizando a linguagem Python, aqui postarei 100 
-projetos até o fim do meu curso, e desafio você a tentar resolver esses projetos comigo para podermos evoluir juntos.
-Esses projetos vão desde o básico até o avançado. 
+If you're interested in discussing job opportunities, programming, Python, or collaborating on new projects, please feel free to reach out on LinkedIn: https://www.linkedin.com/in/patrick-freitas-pinheiro/.
 
-Como funciona?
+I created this new repository to share my projects and new learnings using Python. 
+I will post 100 projects until the end of my course, and I challenge you to try to solve these projects with me so that we can evolve together. These projects range from basic to advanced.
 
-Você verá dois arquivos por tarefa, com os nomes combinando entre, por exemplo: 
-Primeira_Tarefa e Primeira_Solução
-Sendo:
-Primeira_Tarefa - O problema a ser resolvido, indicando tudo o que você precisa para completar o desafio.
-E após terminar o desafio:
-Primeira_Solução - A solução do problema.
+How does it work?
 
-Recomendo que tente fazer apenas uma tarefa por dia e que estude cada tópico abordado.
+In each task, you will find two files with matching names. For instance, you might encounter files named First_Task and First_Solution. The First_Task file contains the problem that needs to be solved, outlining all the necessary details to complete
+the challenge. Upon finishing the challenge, the First_Solution file will give the solution to that problem.
