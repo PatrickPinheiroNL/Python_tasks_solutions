@@ -1,4 +1,5 @@
 What is needed to solve this problem?
+
 1. Basic knowledge of programming logic.  
 2. A fundamental understanding of variables.  
 

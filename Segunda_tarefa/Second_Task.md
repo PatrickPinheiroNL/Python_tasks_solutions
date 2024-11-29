@@ -1,8 +1,8 @@
 What do you need to solve this problem?
 
-To work with float and integer numbers;
-Know how to create a variable;.
-Basic knowledge of mathematics (percentages).
+1. To work with float and integer numbers;
+2. Know how to create a variable;.
+3. Basic knowledge of mathematics (percentages).
 
 If you don't have this knowledge, take a few minutes to study before trying to solve the problem.
 
