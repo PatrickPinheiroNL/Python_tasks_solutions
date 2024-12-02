@@ -7,5 +7,6 @@ I will post 100 projects until the end of my course, and I challenge you to try 
 
 How does it work?
 
-In each task, you will find two files with matching names. For instance, you might encounter files named First_Task and First_Solution. The First_Task file contains the problem that needs to be solved, outlining all the necessary details to complete
-the challenge. Upon finishing the challenge, the First_Solution file will give the solution to that problem.
+You will find a folder with the name of the program that contains 2 files: 1 explaining the task and 1 with the solution, outlining all the necessary details to complete
+the challenge. 
+
