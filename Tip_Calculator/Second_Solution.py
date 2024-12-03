@@ -4,7 +4,7 @@ print("Welcome to the tip calculator!")
 #This is to keep the bill as a float number, the tip as interger and the numbers of
 # people as interger too.
 bill = float(input("What was the total bill? $"))
-tip = int(input("What percentage tip would you like to give? 10 12 15 "))
+tip = int(input("What percentage tip would you like to give? 10, 12 or 15? "))
 people = int(input("How many people to split the bill? "))
 
 #This is to calculate percentage and add to the bill to get the total amount.
