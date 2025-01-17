@@ -1,4 +1,4 @@
-Hello! Nice to meet you! My name is Patrick, and I'm 24 years old. I study Computer Science at Estácio de Sá University and live in Rio de Janeiro.
+Hello! Nice to meet you! My name is Patrick, and I'm 25 years old. I study Computer Science at Estácio de Sá University and live in Rio de Janeiro.
 
 If you're interested in discussing job opportunities, programming, Python, or collaborating on new projects, please feel free to reach out on LinkedIn: https://www.linkedin.com/in/patrick-freitas-pinheiro/.
 
